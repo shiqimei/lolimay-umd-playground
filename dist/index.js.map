@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.ts"],"names":[],"mappings":"","file":"index.js","sourcesContent":["export as namespace sayHello;\n\n/**\n * log Hello info in the console\n */\ndeclare function sayHello(): void;\n"]}

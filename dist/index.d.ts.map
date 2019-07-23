@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.ts"],"names":[],"mappings":"AAEA;;GAEG;AACH,OAAO,UAAU,QAAQ,IAAI,IAAI,CAAC","file":"index.d.ts","sourcesContent":["export as namespace sayHello;\n\n/**\n * log Hello info in the console\n */\ndeclare function sayHello(): void;\n"]}
