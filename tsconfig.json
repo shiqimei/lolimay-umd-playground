@@ -15,11 +15,7 @@
         "outDir": "."
     },
     "exclude": [
-        "node_modules",
-        "server",
-        "client",
-        "definition",
-        "examples"
+        "node_modules"
     ],
     "include": [
         "src",
