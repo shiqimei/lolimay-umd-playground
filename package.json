@@ -1,0 +1,24 @@
+{
+  "name": "lolimay-umd-playground",
+  "version": "1.0.0",
+  "description": "umd lib test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolimay/lolimay-umd-playground.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "lolimay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lolimay/lolimay-umd-playground/issues"
+  },
+  "homepage": "https://github.com/lolimay/lolimay-umd-playground#readme"
+}
