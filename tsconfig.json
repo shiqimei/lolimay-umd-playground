@@ -1,0 +1,31 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "es6",
+        "module": "commonjs",
+        "declaration": true,
+        "noImplicitAny": true,
+        "noUnusedLocals": true,
+        "removeComments": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "moduleResolution": "node",
+        "lib": ["es2017", "dom"],
+        "outDir": "."
+    },
+    "exclude": [
+        "node_modules",
+        "server",
+        "client",
+        "definition",
+        "examples"
+    ],
+    "include": [
+        "src",
+        "tests"
+    ],
+    "atom": {
+        "rewriteTsconfig": false
+    }
+}
